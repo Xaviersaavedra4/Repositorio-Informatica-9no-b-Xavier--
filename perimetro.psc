@@ -1,0 +1,9 @@
+Proceso invertir
+	Definir numLados, longitudLado, perimetro Como Real;
+	Escribir "Ingrese el número de lados del polígono: ";
+	Leer numLados;
+	Escribir "Ingrese la longitud de uno de los lados: ";
+	Leer longitudLado;
+	perimetro = numLados * longitudLado;
+	Escribir "El perímetro del polígono es: ", perimetro;
+FinProceso
