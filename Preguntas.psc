@@ -533,4 +533,3 @@ Proceso Juegodepreguntas
 	Escribir "           Presione para salir";
 	
 FinProceso
-
